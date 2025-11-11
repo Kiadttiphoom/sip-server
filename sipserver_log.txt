@@ -58,3 +58,15 @@ javax.sip.OUTBOUND_PROXY= null
  name="JavaSIPServer"
  auxInfo="null"/>
  
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= JavaSIPServer
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="JavaSIPServer"
+ name="JavaSIPServer"
+ auxInfo="null"/>
+ 
